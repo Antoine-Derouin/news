@@ -14,12 +14,12 @@ RSS 📰 **Feed Reader** and 🎧 **Podcast Player** for **Nextcloud** ☁️ *(
 
 ---
 
-<p>
+<p><center>
 <img alt="" src="https://f-droid.org/repo/co.appreactor.news/en-US/phoneScreenshots/1.png" width="19%">
 <img alt="" src="https://f-droid.org/repo/co.appreactor.news/en-US/phoneScreenshots/2.png" width="19%">
 <img alt="" src="https://f-droid.org/repo/co.appreactor.news/en-US/phoneScreenshots/3.png" width="19%">
 <img alt="" src="https://f-droid.org/repo/co.appreactor.news/en-US/phoneScreenshots/4.png" width="19%">
-</p>
+</center></p>
 
 ---
 
