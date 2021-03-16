@@ -2,12 +2,14 @@
 # News for Nextcloud
 
 <center>
+<p>
 <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">
   <a href="https://f-droid.org/packages/co.appreactor.news/">
   </a>
   <a href='https://play.google.com/store/apps/details?id=co.appreactor.news'>
     <img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80"/>
   </a>
+</p>
 </center>
 
 <center>
@@ -15,10 +17,12 @@ RSS 📰 **Feed Reader** and 🎧 **Podcast Player** for **Nextcloud** ☁️ *(
 
 ---
 
+<p>
 <img alt="" src="https://f-droid.org/repo/co.appreactor.news/en-US/phoneScreenshots/1.png" width="19%">
 <img alt="" src="https://f-droid.org/repo/co.appreactor.news/en-US/phoneScreenshots/2.png" width="19%">
 <img alt="" src="https://f-droid.org/repo/co.appreactor.news/en-US/phoneScreenshots/3.png" width="19%">
 <img alt="" src="https://f-droid.org/repo/co.appreactor.news/en-US/phoneScreenshots/4.png" width="19%">
+</p>
 </center>
 
 ---
